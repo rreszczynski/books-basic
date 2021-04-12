@@ -1,0 +1,9 @@
+.bottomBar {
+	position: absolute;
+	width: 100%;
+	padding: 1em;
+	background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+	text-align: center;
+	color: grey;
+	font-size: 0.8em;
+}

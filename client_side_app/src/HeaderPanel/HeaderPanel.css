@@ -1,0 +1,9 @@
+.topBar {
+	background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+	padding: 1em;
+	padding-left: 6em;
+}
+
+.topBar img {
+	vertical-align: middle;
+}

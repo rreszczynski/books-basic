@@ -1,0 +1,41 @@
+input {
+	padding: 0.7em;
+}
+
+form {
+	margin-left: 3em;
+}
+
+h2 {
+	margin: auto;
+	text-align: center;
+}
+
+
+
+#newBookInfo {
+	font-weight: bold;
+	font-size: 1.2em;
+	padding-bottom: 1em;
+}
+
+#authorInfo {
+	padding-top: 0.5em;
+}
+
+.newBookData {
+	padding-top: 0.5em;
+}
+
+.dropdownSelect {
+	padding-bottom: 1em;
+	width: 25%;
+}
+
+.titleInput {
+	width: 25%;
+}
+
+.dateInput {
+	width: 10%;
+}
